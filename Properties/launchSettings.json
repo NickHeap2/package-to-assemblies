@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "package-to-assemblies": {
+      "commandName": "Project",
+      "commandLineArgs": "packages.config packages assemblies"
+    }
+  }
+}
